@@ -57,7 +57,7 @@ A real-time video/audio conferencing app with chat, screen sharing, and guest ac
 ## 📫 Connect with Me
 
 - 📧 Email: sa22meb0a04@student.nitw.ac.in | savaramaravindsai6@gmail.com  
-- 🔗 [LinkedIn](#) | 💻 [GitHub](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aravind-sai-savaram/?originalSubdomain=in) | 💻 [GitHub](#)
 
 ---
 
