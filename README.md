@@ -18,11 +18,12 @@
 
 ## 🚀 Projects
 
-### 🗺️ Wanderlust  
-A full-stack platform for users to register, list properties, leave reviews, and explore listings with location-based services.  
-**Tech Stack:** Node.js, Express, MongoDB, Passport.js, EJS, Mapbox, Unsplash API  
-> 🔐 Auth, 🗺️ Location services, 🖼️ Image integration
+🏨 StayNearCampus
 
+A distance-first platform to discover short stays near campus—students browse & review while landlords list & manage.
+Tech Stack: Node.js, Express, MongoDB, Passport.js, EJS, Mapbox, Multer/Cloudinary
+
+🔐 Auth, 🗺️ Geo search, 🧩 Amenity filters, ⭐ Reviews, 🖼️ Image uploads
 ### 🧑‍🤝‍🧑 LinkUp  
 A real-time video/audio conferencing app with chat, screen sharing, and guest access.  
 **Tech Stack:** React.js, Node.js, Express, Socket.IO, WebRTC, MongoDB, Material UI  
