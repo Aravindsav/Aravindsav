@@ -23,7 +23,7 @@ I am passionate about **Full-Stack Development**, **Problem-Solving**, and **Bui
 
 ---
 
-### � LinkUp
+###  LinkUp
 **Tech Stack:** React.js, Node.js, Express, WebRTC, Socket.IO, MongoDB, Material UI  
 - Real-time video/audio calling, screen sharing, and in-meeting chat.  
 - Enabled **guest access** and session history with meeting codes.  
