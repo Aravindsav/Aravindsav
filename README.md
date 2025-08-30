@@ -7,7 +7,7 @@ I am passionate about **Full-Stack Development**, **Problem-Solving**, and **Bui
 
 ##  Projects
 
-###  [StayNearCampus](https://github.com/Aravindsav)
+###  StayNearCampus
 **Tech Stack:** Node.js, Express, MongoDB, EJS, Passport.js, Mapbox, Bootstrap  
 - Role-based full-stack web app enabling landlords to manage listings and students to explore them.  
 - Integrated **Mapbox API** for geolocation and **MongoDB filters** (price, distance, amenities).  
