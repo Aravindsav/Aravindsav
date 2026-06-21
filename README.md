@@ -58,8 +58,3 @@ I am passionate about **Full-Stack Development**, **Problem-Solving**, and **Bui
 ##  Connect with Me
 -  Email: [savaramaravindsai16@gmail.com](mailto:savaramaravindsai16@gmail.com)  
 -  LinkedIn: [Aravind Sai Savaram](https://www.linkedin.com/in/aravind-sai-savaram/)  
--  GitHub: [Aravindsav](https://github.com/Aravindsav)  
-
----
-
-*Thanks for visiting my GitHub! Feel free to check out my repositories and connect with me.*
