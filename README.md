@@ -59,8 +59,6 @@ I am passionate about **Full-Stack Development**, **Problem-Solving**, and **Bui
 -  Email: [savaramaravindsai16@gmail.com](mailto:savaramaravindsai16@gmail.com)  
 -  LinkedIn: [Aravind Sai Savaram](https://www.linkedin.com/in/aravind-sai-savaram/)  
 -  GitHub: [Aravindsav](https://github.com/Aravindsav)  
--  LeetCode: [Aravindsai6109](https://leetcode.com/u/Aravindsai6109/)  
--  GeeksforGeeks: [Profile](https://www.geeksforgeeks.org/user/savaramara43ot/)  
 
 ---
 
